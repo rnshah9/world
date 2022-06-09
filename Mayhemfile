@@ -1,0 +1,4 @@
+project: world
+target: analysis-synthesis-analysis
+cmds:
+  - cmd: /repo/build/example_bin/analysis_synthesis_analysis @@ /dev/null /dev/null /dev/null
